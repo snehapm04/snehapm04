@@ -1,7 +1,6 @@
 
-# 👩‍💻 Sneha's GitHub Profile
+# 👩‍💻 Hi there, I'm Sneha!
 
-### 🌟 Hi there, I'm Sneha! 👋
 I'm a 3rd-year Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**. Passionate about developing innovative solutions with AI, generative models, and full-stack applications.
 
 ---
@@ -26,7 +25,11 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
+### Contact me
+- 📧 **Email**: [pmsneha1234@gmail.com](mailto:your.email@example.com)
+- 💼 **LinkedIn**: [linkedin.com/in/sneha-mukunthan-95b86a2b6](www.linkedin.com/in/sneha-mukunthan-95b86a2b6)
 
+---
 ### 🛠️ Tech Stack
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
