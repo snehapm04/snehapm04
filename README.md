@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehapm04&show_icons=true&theme=radical)
-[🌟 My GitHub Skyline](https://skyline.github.com/snehapm04/2024)  
+![GitHub Contribution Graph](https://ghchart.rshah.org/snehapm04)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehapm04&layout=compact&theme=radical)
 
 
