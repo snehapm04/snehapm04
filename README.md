@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehapm04&show_icons=true&theme=dark)
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehapm04&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehapm04&layout=compact&theme=onedark)
 
 
 
