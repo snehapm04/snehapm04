@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ### Contact me
 - 📧 **Email**: [pmsneha1234@gmail.com](mailto:your.email@example.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sneha-mukunthan-95b86a2b6](www.linkedin.com/in/sneha-mukunthan-95b86a2b6)
+- <i class="fa fa-linkedin"></i> **LinkedIn**: [yourprofile](www.linkedin.com/in/sneha-mukunthan-95b86a2b6)
 
 ---
 ### 🛠️ Tech Stack
