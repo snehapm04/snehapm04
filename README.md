@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehapm04&show_icons=true&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=snehapm04&theme=rogue)
+
+
 
 
 
