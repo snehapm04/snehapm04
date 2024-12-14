@@ -1,5 +1,10 @@
-## Hi there 👋
 
+# 👩‍💻 Sneha's GitHub Profile
+
+### 🌟 Hi there, I'm Sneha! 👋
+I'm a 3rd-year Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**. Passionate about developing innovative solutions with AI, generative models, and full-stack applications.
+
+---
 <!--
 **snehapm04/snehapm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
