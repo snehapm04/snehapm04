@@ -39,8 +39,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/JavaFX_Logo.png" alt="JavaFX" width="40" height="40" />
+  <img src="https://via.placeholder.com/40?text=FX" alt="JavaFX" width="40" height="40" />
 </div>
+
 
 
 ---
