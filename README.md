@@ -3,16 +3,17 @@
 
 ---
 
-## About Me
+### About Me
 
 I'm a **third-year Computer Science and Engineering student**, specializing in **Artificial Intelligence and Machine Learning**. My work blends cutting-edge machine learning with scalable full-stack engineering to build impactful, intelligent systems.
 
-### 👨‍💻 What I Do
+---
+### What I Do
 
-- 🤖 I work with machine learning models, from classical algorithms to deep neural networks.
-- 🧬 I explore **Generative AI**, including LLMs and diffusion models.
-- 🌐 I build full-stack web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**.
-- 🚀 I'm learning to deploy ML models using **MLOps**, **Docker**, and **FastAPI**.
+- I work with machine learning models, from classical algorithms to deep neural networks.
+- I explore **Generative AI**, including LLMs and diffusion models.
+- I build full-stack web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**.
+- I'm learning to deploy ML models using **MLOps**, **Docker**, and **FastAPI**.
 
 I’m particularly passionate about creating things that are both **smart** and **useful** — like AI-powered chatbots, recommendation systems, and end-to-end SaaS tools.
 
@@ -21,7 +22,7 @@ I’m particularly passionate about creating things that are both **smart** and 
 ### ⚙️ Tech Stack
 
 #### 🖥️ Languages
-<p>
+<p> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -53,7 +54,7 @@ I’m particularly passionate about creating things that are both **smart** and 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-## 📫 Connect With Me
+### Let's connect !
 
 - 🌐 [Portfolio](https://sneha-pm.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sneha-mukunthan)
