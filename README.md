@@ -50,7 +50,6 @@ I’m particularly passionate about creating things that are both **smart** and 
 
 #### 🗃️ Database & Storage
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
@@ -58,7 +57,7 @@ I’m particularly passionate about creating things that are both **smart** and 
 
 - 🌐 [Portfolio](https://sneha-pm.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sneha-mukunthan)
-- 
+  
 ---
 ![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehapm04&show_icons=true&theme=onedark)
 ---
