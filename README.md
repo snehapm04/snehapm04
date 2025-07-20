@@ -1,22 +1,24 @@
+<h1 align="center">Hi there , I'm Sneha</h1>
+<h3 align="center">AI & ML Enthusiast | Full Stack Developer | CSE Undergrad</h3>
 
-# Hi there, I'm Sneha!
-
-I'm a 3rd-year Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**.
-Passionate about developing innovative solutions with AI, generative models, and full-stack applications.
 ---
-<!--
-=
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### ⚙️ Tech Toolbox
+## About Me
+
+I'm a **third-year Computer Science and Engineering student**, specializing in **Artificial Intelligence and Machine Learning**. My work blends cutting-edge machine learning with scalable full-stack engineering to build impactful, intelligent systems.
+
+### 👨‍💻 What I Do
+
+- 🤖 I work with machine learning models, from classical algorithms to deep neural networks.
+- 🧬 I explore **Generative AI**, including LLMs and diffusion models.
+- 🌐 I build full-stack web apps using **React**, **Next.js**, **Node.js**, and **MongoDB**.
+- 🚀 I'm learning to deploy ML models using **MLOps**, **Docker**, and **FastAPI**.
+
+I’m particularly passionate about creating things that are both **smart** and **useful** — like AI-powered chatbots, recommendation systems, and end-to-end SaaS tools.
+
+---
+
+### ⚙️ Tech Stack
 
 #### 🖥️ Languages
 <p>
@@ -51,6 +53,11 @@ Passionate about developing innovative solutions with AI, generative models, and
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://sneha-pm.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sneha-mukunthan)
+- 
 ---
 ![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehapm04&show_icons=true&theme=onedark)
 ---
