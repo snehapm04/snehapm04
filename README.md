@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a **third-year Computer Science and Engineering student**, specializing in **Artificial Intelligence and Machine Learning**. My work blends cutting-edge machine learning with scalable full-stack engineering to build impactful, intelligent systems.
+I'm a **final-year Computer Science and Engineering student**, specializing in **Artificial Intelligence and Machine Learning**. My work blends cutting-edge machine learning with scalable full-stack engineering to build impactful, intelligent systems.
 
 ---
 ### What I Do
