@@ -55,6 +55,19 @@ I don’t just train models — I build systems around them.
 - Blend of **AI + product thinking**  
 
 ---
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/snehapm04/Marketing-Campaign-Optimization-using-Agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO1&theme=github_dark" />
+  </a>
+  <a href="https://github.com/snehapm04/Customer-Churn-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO2&theme=github_dark" />
+  </a>
+  <a href="https://github.com/snehapm04/Multiple-Disease-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO2&theme=github_dark" />
+  </a>
+</p>
 
 ## GitHub Analytics
 
@@ -66,7 +79,7 @@ I don’t just train models — I build systems around them.
 
 ## Connect
 
-- Portfolio: https://  
-- LinkedIn: https://linkedin.com/in/  
+- Portfolio: https://sneha-pm.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/sneha-mukunthan/ 
 
 ---
