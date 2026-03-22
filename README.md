@@ -1,4 +1,4 @@
-# Sneha M
+# Sneha P M
 
 Building AI systems that move from research → real-world deployment
 
@@ -7,7 +7,6 @@ Building AI systems that move from research → real-world deployment
 ## Overview
 
 Final-year Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with a strong focus on **deployable ML systems and full-stack integration**.
-
 I don’t just train models — I build systems around them.
 
 ---
