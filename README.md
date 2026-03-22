@@ -23,28 +23,47 @@ I don’t just train models — I build systems around them.
 ## Tech Stack
 
 ### Programming & Development
-![Programming](https://skillicons.dev/icons?i=python,cpp,r,react,nextjs,html,css)
-
----
+![Programming](https://skillicons.dev/icons?i=python,cpp,r,js,react,nextjs,html,css)
 
 ### AI & Machine Learning
-![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
 
 - Machine Learning  
 - Deep Learning  
 - Natural Language Processing (NLP)  
-- Data Analysis  
-- Generative AI  
+- Data Analysis & Feature Engineering  
+- Generative AI (LLMs, Embeddings, RAG)  
 
----
+
+### Data & Visualization
+![Data](https://skillicons.dev/icons?i=pandas,numpy)
+
+- Exploratory Data Analysis (EDA)  
+- Data Preprocessing & Cleaning  
+- Tableau (Dashboards & Insights)  
+
+
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express,django,fastapi)
+
+- REST API Development  
+- Model Serving & Inference APIs  
+
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)
 
 - Jupyter Notebook  
-- Tableau  
-- Postman  
-- Azure AI  
+- Postman (API Testing)  
+- Azure AI (Cloud-based ML services)  
+
+### Deployment & MLOps (Learning / Exploring)
+![DevOps](https://skillicons.dev/icons?i=docker)
+
+- Containerization with Docker  
+- Model Deployment Strategies  
+- Basic CI/CD concepts  
+ 
 
 ---
 
