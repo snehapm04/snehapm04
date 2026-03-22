@@ -59,13 +59,13 @@ I don’t just train models — I build systems around them.
 
 <p align="center">
   <a href="https://github.com/snehapm04/Marketing-Campaign-Optimization-using-Agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO1&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=Marketing-Campaign-Optimization-using-Agents&theme=github_dark" />
   </a>
   <a href="https://github.com/snehapm04/Customer-Churn-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO2&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=Customer-Churn-Prediction&theme=github_dark" />
   </a>
   <a href="https://github.com/snehapm04/Multiple-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=REPO2&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehapm04&repo=Multiple-Disease-Prediction&theme=github_dark" />
   </a>
 </p>
 
